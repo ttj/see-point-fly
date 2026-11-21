@@ -3,7 +3,7 @@ name = "see-point-fly"
 version = "0.1.0"
 description = "See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned Aerial Navigation"
 readme = "README.md"
-requires-python = ">=3.13"
+requires-python = ">=3.14"
 dependencies = [
     "airsim>=1.8.1",
     "backports-ssl-match-hostname>=3.7.0.1",
